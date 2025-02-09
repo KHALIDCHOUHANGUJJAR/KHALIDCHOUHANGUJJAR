@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KHALIDCHOUHANGUJJAR/Portfolio.git](https://github.com/KHALIDCHOUHANGUJJAR/Portfolio.git)
+- 👨‍💻 All of my projects are available at https://github.com/KHALIDCHOUHANGUJJAR/
 
 - 💬 Ask me about **javascript, react, mongodb, nodejs, express,tailwind css etc**
 
